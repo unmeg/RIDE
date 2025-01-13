@@ -1,4 +1,15 @@
+'''
+Created on Jun. 01, 2019
+Mosaik script to initialize, interconnect and manage simulators
 
+@file    simulator_demo.py
+@author  Evandro de Souza, Amrinder S. Grewal
+@date    2019.06.01  
+@version 0.1
+@company University of Alberta - Computing Science
+
+Adapted and updated by Meaghan White in 2024.
+'''
 import os
 import sys
 import csv
