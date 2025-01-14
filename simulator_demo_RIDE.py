@@ -225,7 +225,7 @@ def  create_scenario( world, args ):
         model_name      = 'TransporterModel',
         json_file       = JSON_RPATH_FILE,
         devs_file       = DEVS_RPATH_FILE,
-        linkRate        = "100Mbps",
+        linkRate        = "10Gbps",
         linkDelay       = args.link_delay,
         linkErrorRate   = args.link_error_rate,
         start_time      = 0,
